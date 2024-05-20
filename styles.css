@@ -52,6 +52,7 @@ p {
 .wrapper {
 	min-width: 23.438rem;
 	margin: 0 auto;
+	margin-top: 13rem;
 }
 .heading {
 	background: linear-gradient(var(--ltslateblue), var(--ltroyalblue));
